@@ -1,0 +1,40 @@
+/*Navbar*/
+a {
+	color: black;
+}
+
+.icon-bar {
+	background-color: black;
+	padding-bottom: 0px;
+}
+
+.navbar-brand {
+	font-family: 'Coda', cursive;
+	font-size: 40px;
+	color: black;
+}
+
+.navbar-nav {
+	font-family: 'Coda', cursive;
+	color: black;
+	font-size: 20px;
+	padding-top: 5px;
+}
+.space {
+	height: 25px;
+}
+
+.box {
+	padding: 25px;
+	text-align: center;
+	font-family: 'Coda', cursive;
+	color: white;
+	margin: auto;
+	width: 50%;
+}
+
+.jumbotron {
+	background-image: url("sd.jpg");
+	background-position: center;
+	background-size: 100% auto;
+}
